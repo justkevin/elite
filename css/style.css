@@ -215,9 +215,15 @@ body {
 /* start footer */
 .footer_bg{
 	background: #f9f9f9;
+	text-align: center;
+	margin-left: 15%;
 }
 .footer{
 	padding:4% 0%;
+	background-color: white;
+	text-align: left;
+	margin-left: -110px;
+	margin-right: 110px
 }
 .span1_of_4 h4{
 	font-size: 2.5em;
@@ -236,6 +242,7 @@ body {
 	font-size: 13px;
 	line-height: 1.5em;
 	color: #9FA0A2;
+	text-align: left;
 }
 .span1_of_4 p.top{
 	margin-top: 4%;
@@ -527,10 +534,10 @@ body {
 	width: 100%;
 }
 .about h4{
-	color: #354B77;
+	color: #708ACC;
 }
 .para{
-	font-size: 13px;
+	font-size: 14px;
 	line-height: 1.8em;
 	color: #434C5E;
 }
