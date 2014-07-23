@@ -2,7 +2,7 @@
 body {
 	font-family: 'Open Sans', 'sans-serif';
 	background:#ffffff;
-	font-size: 100%;
+	font-size: 80%;
 }
 .wrap{
 	margin:0 auto;
@@ -292,7 +292,7 @@ body {
 }
 /*start footer_top */
 .footer_btm{
-	background: #f3f3f3;
+	background: #fff;
 }
 .footer1{
 	padding: 4% 2% 4% 0;
